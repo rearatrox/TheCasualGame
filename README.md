@@ -1,6 +1,8 @@
 # TheCasualGame
 
 I build this Game just for fun to better learn the abilities of Unity and C#. 
+I tested it on several Android Phones and shared it with some friends. 
+If it dont work on your phone I'm sorry. 
 
 # How To Play
 
